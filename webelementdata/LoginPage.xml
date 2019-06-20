@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page name="登录页面"><!-- 登录页面 -->
+	    <locator name="请输入账号" type="css" value="input#username" timeout="20">usernameInputbox</locator>
+	    <locator name="请输入密码" type="css" value="input#password" timeout="20">passwordInputbox</locator>
+	    <locator name="请输入公司码" type="css" value="input#orgno" timeout="20">orgnoInputbox</locator>
+	    <locator name="登录按钮" type="css" value="a#login-button-submit" timeout="20">loginButton</locator>
+</page>

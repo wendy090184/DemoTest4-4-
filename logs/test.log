@@ -1,0 +1,57 @@
+2019-05-09 13:09:03.399 INFO  com.first.utils.Log 18 info - com.first.utils.TestNGListener：测试初始化
+2019-05-09 13:09:17.804 INFO  com.first.utils.Log 18 info - com.first.utils.TestNGListener：测试用例开始执行
+2019-05-09 13:09:20.765 INFO  com.first.utils.Log 18 info - com.first.uiframework.DriverUtils：打开网址https://service.czworks.cn
+2019-05-09 13:09:21.276 INFO  com.first.utils.Log 18 info - com.first.uiframework.WebElementUtils：在元素 ：请输入账号输入：sysadmin
+2019-05-09 13:09:21.437 INFO  com.first.utils.Log 18 info - com.first.uiframework.WebElementUtils：在元素 ：请输入密码输入：Cz123456
+2019-05-09 13:09:21.570 INFO  com.first.utils.Log 18 info - com.first.uiframework.WebElementUtils：在元素 ：请输入公司码输入：nx
+2019-05-09 13:09:21.744 INFO  com.first.utils.Log 18 info - com.first.uiframework.WebElementUtils：点击元素 ：登录按钮
+2019-05-09 13:09:36.111 INFO  com.first.utils.Log 18 info - com.first.uiframework.WebElementUtils：获取元素：用户菜单文本值
+2019-05-09 13:09:36.195 INFO  com.first.utils.Log 18 info - com.first.utils.TestngRetry：Running retry for 'loginTest01' on class com.first.utils.TestngRetry Retrying 1 times
+2019-05-09 13:09:36.322 INFO  com.first.utils.Log 26 error - com.first.utils.TestNGListener：测试用例被跳过
+2019-05-09 13:09:36.327 INFO  com.first.utils.Log 18 info - com.first.utils.TestNGListener：测试用例开始执行
+2019-05-09 13:09:36.628 INFO  com.first.utils.Log 18 info - com.first.uiframework.DriverUtils：打开网址https://service.czworks.cn
+2019-05-09 13:09:36.846 INFO  com.first.utils.Log 18 info - com.first.uiframework.WebElementUtils：在元素 ：请输入账号输入：sysadmin
+2019-05-09 13:09:36.988 INFO  com.first.utils.Log 18 info - com.first.uiframework.WebElementUtils：在元素 ：请输入密码输入：Cz123456
+2019-05-09 13:09:37.127 INFO  com.first.utils.Log 18 info - com.first.uiframework.WebElementUtils：在元素 ：请输入公司码输入：nx
+2019-05-09 13:09:37.249 INFO  com.first.utils.Log 18 info - com.first.uiframework.WebElementUtils：点击元素 ：登录按钮
+2019-05-09 13:09:42.368 INFO  com.first.utils.Log 26 error - com.first.uiframework.WebElementUtils：元素：用户菜单识别异常
+2019-05-09 13:09:42.878 INFO  com.first.utils.Log 26 error - com.first.uiframework.WebElementUtils：元素：用户菜单识别异常
+2019-05-09 13:09:43.386 INFO  com.first.utils.Log 26 error - com.first.uiframework.WebElementUtils：元素：用户菜单识别异常
+2019-05-09 13:09:43.891 INFO  com.first.utils.Log 26 error - com.first.uiframework.WebElementUtils：元素：用户菜单识别异常
+2019-05-09 13:09:44.397 INFO  com.first.utils.Log 26 error - com.first.uiframework.WebElementUtils：元素：用户菜单识别异常
+2019-05-09 13:09:44.908 INFO  com.first.utils.Log 26 error - com.first.uiframework.WebElementUtils：元素：用户菜单识别异常
+2019-05-09 13:09:45.414 INFO  com.first.utils.Log 26 error - com.first.uiframework.WebElementUtils：元素：用户菜单识别异常
+2019-05-09 13:09:45.920 INFO  com.first.utils.Log 26 error - com.first.uiframework.WebElementUtils：元素：用户菜单识别异常
+2019-05-09 13:09:46.429 INFO  com.first.utils.Log 26 error - com.first.uiframework.WebElementUtils：元素：用户菜单识别异常
+2019-05-09 13:09:46.943 INFO  com.first.utils.Log 26 error - com.first.uiframework.WebElementUtils：元素：用户菜单识别异常
+2019-05-09 13:09:47.451 INFO  com.first.utils.Log 26 error - com.first.uiframework.WebElementUtils：元素：用户菜单识别异常
+2019-05-09 13:09:47.963 INFO  com.first.utils.Log 26 error - com.first.uiframework.WebElementUtils：元素：用户菜单识别异常
+2019-05-09 13:09:48.473 INFO  com.first.utils.Log 26 error - com.first.uiframework.WebElementUtils：元素：用户菜单识别异常
+2019-05-09 13:09:48.979 INFO  com.first.utils.Log 26 error - com.first.uiframework.WebElementUtils：元素：用户菜单识别异常
+2019-05-09 13:09:49.487 INFO  com.first.utils.Log 26 error - com.first.uiframework.WebElementUtils：元素：用户菜单识别异常
+2019-05-09 13:09:50.000 INFO  com.first.utils.Log 26 error - com.first.uiframework.WebElementUtils：元素：用户菜单识别异常
+2019-05-09 13:09:50.512 INFO  com.first.utils.Log 26 error - com.first.uiframework.WebElementUtils：元素：用户菜单识别异常
+2019-05-09 13:09:51.022 INFO  com.first.utils.Log 26 error - com.first.uiframework.WebElementUtils：元素：用户菜单识别异常
+2019-05-09 13:09:51.529 INFO  com.first.utils.Log 26 error - com.first.uiframework.WebElementUtils：元素：用户菜单识别异常
+2019-05-09 13:09:52.034 INFO  com.first.utils.Log 26 error - com.first.uiframework.WebElementUtils：元素：用户菜单识别异常
+2019-05-09 13:09:52.543 INFO  com.first.utils.Log 26 error - com.first.uiframework.WebElementUtils：元素：用户菜单识别异常
+2019-05-09 13:09:53.053 INFO  com.first.utils.Log 26 error - com.first.uiframework.WebElementUtils：元素：用户菜单识别异常
+2019-05-09 13:09:53.562 INFO  com.first.utils.Log 26 error - com.first.uiframework.WebElementUtils：元素：用户菜单识别异常
+2019-05-09 13:09:54.067 INFO  com.first.utils.Log 26 error - com.first.uiframework.WebElementUtils：元素：用户菜单识别异常
+2019-05-09 13:09:54.574 INFO  com.first.utils.Log 26 error - com.first.uiframework.WebElementUtils：元素：用户菜单识别异常
+2019-05-09 13:09:55.084 INFO  com.first.utils.Log 26 error - com.first.uiframework.WebElementUtils：元素：用户菜单识别异常
+2019-05-09 13:09:55.591 INFO  com.first.utils.Log 26 error - com.first.uiframework.WebElementUtils：元素：用户菜单识别异常
+2019-05-09 13:09:56.097 INFO  com.first.utils.Log 26 error - com.first.uiframework.WebElementUtils：元素：用户菜单识别异常
+2019-05-09 13:09:56.602 INFO  com.first.utils.Log 26 error - com.first.uiframework.WebElementUtils：元素：用户菜单识别异常
+2019-05-09 13:09:57.109 INFO  com.first.utils.Log 26 error - com.first.uiframework.WebElementUtils：元素：用户菜单识别异常
+2019-05-09 13:09:57.615 INFO  com.first.utils.Log 26 error - com.first.uiframework.WebElementUtils：元素：用户菜单识别异常
+2019-05-09 13:09:58.122 INFO  com.first.utils.Log 26 error - com.first.uiframework.WebElementUtils：元素：用户菜单识别异常
+2019-05-09 13:09:58.631 INFO  com.first.utils.Log 26 error - com.first.uiframework.WebElementUtils：元素：用户菜单识别异常
+2019-05-09 13:09:59.139 INFO  com.first.utils.Log 26 error - com.first.uiframework.WebElementUtils：元素：用户菜单识别异常
+2019-05-09 13:09:59.653 INFO  com.first.utils.Log 26 error - com.first.uiframework.WebElementUtils：元素：用户菜单识别异常
+2019-05-09 13:09:59.658 INFO  com.first.utils.Log 18 info - com.first.utils.TestngRetry：Running retry for 'loginTest01' on class com.first.utils.TestngRetry Retrying 2 times
+2019-05-09 13:09:59.663 INFO  com.first.utils.Log 26 error - com.first.utils.TestNGListener：测试用例被跳过
+2019-05-09 13:09:59.665 INFO  com.first.utils.Log 18 info - com.first.utils.TestNGListener：测试用例开始执行
+2019-05-09 13:09:59.701 INFO  com.first.utils.Log 26 error - com.first.utils.TestNGListener：测试用例执行失败
+2019-05-09 13:10:03.721 INFO  com.first.utils.Log 18 info - com.first.utils.TestNGListener：测试用例执行完成
+2019-05-09 13:10:03.722 INFO  com.first.utils.Log 18 info - com.first.utils.TestNGListener：失败的测试用例：loginTest01
